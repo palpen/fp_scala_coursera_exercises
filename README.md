@@ -1,6 +1,6 @@
 # Assignments for Functional Programming Principles in Scala
 
-This repository contains my solutions to the assignments for the `Functional Programming Principles in Scala` course on Coursera. It also contains notes and experimental scripts written while taking the course.
+This repository contains my solutions to the assignments for the [Functional Programming Principles in Scala](https://www.coursera.org/learn/progfun1) course on Coursera. It also contains notes and experimental scripts written while taking the course.
 
 Notes and misc scripts:[here](https://github.com/palpen/fp_scala_coursera_exercises/tree/master/progfun])
 
