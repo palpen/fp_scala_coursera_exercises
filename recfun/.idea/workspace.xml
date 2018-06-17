@@ -31,17 +31,17 @@
       <file leaf-file-name="Main.scala" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/scala/recfun/Main.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+            <state relative-caret-position="165">
+              <caret line="11" selection-start-line="11" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="PascalSuite.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/PascalSuite.scala">
+      <file leaf-file-name="BalanceSuite.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/BalanceSuite.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="375">
+              <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
@@ -58,7 +58,7 @@
   <component name="ProjectFrameBounds">
     <option name="x" value="-1920" />
     <option name="y" value="23" />
-    <option name="width" value="1362" />
+    <option name="width" value="960" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
@@ -70,29 +70,29 @@
         <subPane>
           <expand>
             <path>
-              <item name="recfun_5693" type="b2602c69:ProjectViewProjectNode" />
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
               <item name="recfun" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="recfun_5693" type="b2602c69:ProjectViewProjectNode" />
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
               <item name="recfun" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="recfun_5693" type="b2602c69:ProjectViewProjectNode" />
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
               <item name="recfun" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="recfun_5693" type="b2602c69:ProjectViewProjectNode" />
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
               <item name="recfun" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="recfun_5693" type="b2602c69:ProjectViewProjectNode" />
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
               <item name="recfun" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -100,7 +100,7 @@
               <item name="common" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="recfun_5693" type="b2602c69:ProjectViewProjectNode" />
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
               <item name="recfun" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
@@ -108,32 +108,32 @@
               <item name="recfun" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="recfun_5693" type="b2602c69:ProjectViewProjectNode" />
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
               <item name="recfun" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="recfun_5693" type="b2602c69:ProjectViewProjectNode" />
-              <item name="recfun" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="scala" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="recfun_5693" type="b2602c69:ProjectViewProjectNode" />
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
               <item name="recfun" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="scala" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
+              <item name="recfun" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="scala" type="462c0819:PsiDirectoryNode" />
               <item name="recfun" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="recfun_5693" type="b2602c69:ProjectViewProjectNode" />
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
             <path>
-              <item name="recfun_5693" type="b2602c69:ProjectViewProjectNode" />
+              <item name="progfun1-recfun" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
               <item name="Scratches" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
             </path>
@@ -157,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.PascalSuite">
+  <component name="RunManager" selected="JUnit.BalanceSuite">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="recfun.Main" />
       <module name="root" />
@@ -171,6 +171,29 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="BalanceSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="root" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="recfun.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="recfun" />
+      <option name="MAIN_CLASS_NAME" value="recfun.BalanceSuite" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
     </configuration>
     <configuration name="PascalSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="root" />
@@ -236,11 +259,13 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.PascalSuite" />
+      <item itemvalue="JUnit.BalanceSuite" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.PascalSuite" />
+        <item itemvalue="JUnit.BalanceSuite" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.PascalSuite" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +296,6 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="18233173156000" />
         <entry key="$PROJECT_DIR$/build.sbt" value="2315116761" />
         <entry key="$PROJECT_DIR$/project/CommonBuild.scala" value="2571602370" />
         <entry key="$PROJECT_DIR$/project/Courses.scala" value="2983207392" />
@@ -300,9 +324,15 @@
     <history-entry file="PascalSuite - 2018.06.16 at 11h 12m 11s.xml">
       <configuration name="PascalSuite" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="BalanceSuite - 2018.06.16 at 20h 34m 28s.xml">
+      <configuration name="BalanceSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BalanceSuite - 2018.06.16 at 20h 43m 28s.xml">
+      <configuration name="BalanceSuite" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="23" width="1362" height="1057" extended-state="0" />
+    <frame x="-1920" y="23" width="960" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -314,8 +344,9 @@
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
       <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32960325" />
       <window_info id="Designer" order="1" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.17621145" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.25416666" />
       <window_info anchor="bottom" id="sbt-shell-toolwindow" order="0" />
+      <window_info anchor="bottom" id="Build" order="3" weight="0.33997902" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
       <window_info id="Favorites" order="0" side_tool="true" />
@@ -326,7 +357,6 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Build" order="3" visible="true" weight="0.33997902" />
       <window_info anchor="bottom" id="Find" order="5" />
     </layout>
   </component>
@@ -390,24 +420,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/BalanceSuite.scala">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/PascalSuite.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="300">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/scala/recfun/BalanceSuite.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala/recfun/Main.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="15" lean-forward="true" selection-start-line="13" selection-start-column="15" selection-end-line="13" selection-end-column="15" />
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="18" />
         </state>
       </provider>
     </entry>
