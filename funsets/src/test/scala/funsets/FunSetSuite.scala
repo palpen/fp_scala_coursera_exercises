@@ -29,10 +29,10 @@ class FunSetSuite extends FunSuite {
   /**
    * Tests are written using the "test" operator and the "assert" method.
    */
-  // test("string take") {
-  //   val message = "hello, world"
-  //   assert(message.take(5) == "hello")
-  // }
+   test("string take") {
+     val message = "hello, world"
+     assert(message.take(5) == "hello")
+   }
 
   /**
    * For ScalaTest tests, there exists a special equality operator "===" that
@@ -77,6 +77,9 @@ class FunSetSuite extends FunSuite {
     val s1 = singletonSet(1)
     val s2 = singletonSet(2)
     val s3 = singletonSet(3)
+    val s4 = singletonSet(1)
+    val union1 = union(s1, s2)
+    val union2 = union(s3, s4)
   }
 
   /**
@@ -110,5 +113,28 @@ class FunSetSuite extends FunSuite {
     }
   }
 
+  test(testName = "Intersection contains only common elements in each set") {
+    new TestSets {
+      val s = intersect(s1, s4)
+      assert(contains(s, 1), "Intersect 1")
 
+      val s_int= intersect(union1, union2)
+      assert(!contains(s_int, 2), "Intersect 2")
+      assert(contains(s_int, 1), "Intersect 3")
+
+    }
+  }
+
+  test(testName = "Difference contains only elements in one set and not the other") {
+    new TestSets {
+      val s = diff(s1, s2)
+      assert(contains(s, 1), "Diff 1")
+      assert(!contains(s, 2), "Diff 2")
+
+      val s_diff2 = diff(union1, union2)
+      assert(!contains(s_diff2, 1), "Diff 3")
+      assert(contains(s_diff2, 2), "Diff 4")
+
+    }
+  }
 }

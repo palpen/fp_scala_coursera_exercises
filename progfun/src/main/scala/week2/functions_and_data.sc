@@ -48,7 +48,7 @@ x.add(y)
 x.neg
 x.sub(y)
 
-x add y 
+x add y
 
 x.less(y)
 x.max(y)
