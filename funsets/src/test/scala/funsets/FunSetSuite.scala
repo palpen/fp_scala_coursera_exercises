@@ -70,10 +70,11 @@ class FunSetSuite extends FunSuite {
    *
    * Therefore, we put the shared values into a separate trait (traits are like
    * abstract classes), and create an instance inside each test method.
-   *
+
    */
 
   trait TestSets {
+    val s0 = singletonSet(0)
     val s1 = singletonSet(1)
     val s2 = singletonSet(2)
     val s3 = singletonSet(3)
@@ -135,6 +136,18 @@ class FunSetSuite extends FunSuite {
       assert(!contains(s_diff2, 1), "Diff 3")
       assert(contains(s_diff2, 2), "Diff 4")
 
+    }
+  }
+  test(testName = "Filter by predicate") {
+    new TestSets {
+      val s = filter(s1, (x:Int) => (x>1))
+      assert(!contains(s, 1), "Filter 1")
+      assert(!contains(s, 0), "Filter 2")
+
+      val s_union = union(s0, s1)
+      val s_union_filtered = filter(s_union, (x:Int) => x<1)
+      assert(contains(s_union_filtered, 0), "Filter 3")
+      assert(!contains(s_union_filtered, 1), "Filter 4")
     }
   }
 }
