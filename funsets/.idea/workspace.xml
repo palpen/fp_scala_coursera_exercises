@@ -18,48 +18,55 @@
     </projectState>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Main.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/funsets/Main.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FunSets.scala" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/scala/funsets/FunSets.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="906">
-              <caret line="97" selection-start-line="97" selection-end-line="97" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FunSetSuite.scala" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/scala/funsets/FunSetSuite.scala">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="149" column="54" selection-start-line="149" selection-start-column="54" selection-end-line="149" selection-end-column="54" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.55023545">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="Main.scala" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/main/scala/funsets/Main.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="30">
+                  <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="FunSets.scala" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/main/scala/funsets/FunSets.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="256">
+                  <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="FunSetSuite.scala" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/scala/funsets/FunSetSuite.scala">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="463">
+                  <caret line="171" column="26" selection-start-line="171" selection-start-column="26" selection-end-line="171" selection-end-column="26" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/scala/funsets/FunSets.scala" />
         <option value="$PROJECT_DIR$/src/test/scala/funsets/FunSetSuite.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala/funsets/FunSets.scala" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="640" />
     <option name="y" value="23" />
-    <option name="width" value="1280" />
+    <option name="width" value="960" />
     <option name="height" value="1057" />
   </component>
   <component name="ProjectView">
@@ -280,39 +287,39 @@
     </option>
   </component>
   <component name="TestHistory">
-    <history-entry file="FunSetSuite - 2018.06.30 at 23h 25m 41s.xml">
+    <history-entry file="FunSetSuite - 2018.07.02 at 13h 37m 15s.xml">
       <configuration name="FunSetSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunSetSuite - 2018.07.02 at 09h 34m 59s.xml">
+    <history-entry file="FunSetSuite - 2018.07.02 at 13h 37m 27s.xml">
       <configuration name="FunSetSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunSetSuite - 2018.07.02 at 09h 47m 45s.xml">
+    <history-entry file="FunSetSuite - 2018.07.02 at 13h 40m 53s.xml">
       <configuration name="FunSetSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunSetSuite - 2018.07.02 at 09h 48m 37s.xml">
+    <history-entry file="FunSetSuite - 2018.07.02 at 13h 41m 20s.xml">
       <configuration name="FunSetSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunSetSuite - 2018.07.02 at 09h 48m 42s.xml">
+    <history-entry file="FunSetSuite - 2018.07.02 at 13h 43m 42s.xml">
       <configuration name="FunSetSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunSetSuite - 2018.07.02 at 09h 49m 49s.xml">
+    <history-entry file="FunSetSuite - 2018.07.02 at 13h 46m 44s.xml">
       <configuration name="FunSetSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunSetSuite - 2018.07.02 at 09h 58m 11s.xml">
+    <history-entry file="FunSetSuite - 2018.07.02 at 13h 55m 44s.xml">
       <configuration name="FunSetSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunSetSuite - 2018.07.02 at 10h 08m 11s.xml">
+    <history-entry file="FunSetSuite - 2018.07.02 at 13h 59m 00s.xml">
       <configuration name="FunSetSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunSetSuite - 2018.07.02 at 10h 08m 26s.xml">
+    <history-entry file="FunSetSuite - 2018.07.02 at 13h 59m 25s.xml">
       <configuration name="FunSetSuite" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="FunSetSuite - 2018.07.02 at 10h 54m 49s.xml">
+    <history-entry file="FunSetSuite - 2018.07.02 at 20h 20m 36s.xml">
       <configuration name="FunSetSuite" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="640" y="23" width="1280" height="1057" extended-state="0" />
+    <frame x="385" y="23" width="1274" height="1057" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -372,17 +379,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala/funsets/FunSets.scala">
+    <entry file="file://$PROJECT_DIR$/src/test/scala/funsets/FunSetSuite.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="906">
-          <caret line="97" selection-start-line="97" selection-end-line="97" />
+        <state relative-caret-position="463">
+          <caret line="171" column="26" selection-start-line="171" selection-start-column="26" selection-end-line="171" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/scala/funsets/FunSetSuite.scala">
+    <entry file="file://$PROJECT_DIR$/src/main/scala/funsets/FunSets.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="149" column="54" selection-start-line="149" selection-start-column="54" selection-end-line="149" selection-end-column="54" />
+        <state relative-caret-position="256">
+          <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
         </state>
       </provider>
     </entry>

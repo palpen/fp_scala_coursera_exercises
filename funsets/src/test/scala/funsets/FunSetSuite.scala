@@ -150,4 +150,25 @@ class FunSetSuite extends FunSuite {
       assert(!contains(s_union_filtered, 1), "Filter 4")
     }
   }
+
+  test(testName = "For All") {
+    def s1(x: Int) = x > 0
+    def s2(x: Int): Boolean = 5 > x & x > -5
+    def p1(x: Int) = 10 > x & x > -10
+
+    assert(!forall(s1, p1), "For All 1")
+    assert(forall(s2, p1), "For all 2")
+  }
+
+  test(testName = "Exists") {
+    def s1(x: Int) = x > 0
+    def s2(x: Int): Boolean = 5 > x & x > -5
+    def s3(x: Int): Boolean = 55 > x & x > 50
+
+    def p1(x: Int) = 10 > x & x > -10
+
+    assert(exists(s1, p1))
+    assert(exists(s2, p1))
+    assert(!exists(s3, p1))
+  }
 }
