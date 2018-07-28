@@ -1,6 +1,19 @@
 
 /**
+  * This worksheet implements a set of integers as a binary tree
+  *
+  * There are three possible operations for sets: include a new element,
+  * check if an element is in the set, and an operation to take the union of
+  * two sets
+  *
+  * To implement the data structure, one must consider the two types of sets:
+  * the empty set and the nonempty set
+  *
+  * Each type of set is implemented as a subclass that extends the abstract
+  * class IntSet
+  *
   * Abstract classes form the template for its subclasses
+  *
   * The subclasses implement the methods declared in the abstract class
   * */
 abstract class IntSet {
@@ -9,6 +22,8 @@ abstract class IntSet {
   def union(other: IntSet): IntSet
 }
 
+/**
+  * First subclass of IntSet */
 class Empty extends IntSet {
   def contains(x: Int): Boolean = false
 
@@ -38,6 +53,8 @@ class NonEmpty(elem: Int, left: IntSet, right: IntSet) extends IntSet {
   override def toString = "{" + left + elem + right + "}"
 }
 
+/**
+  * Tests*/
 val t1 = new NonEmpty(5, new Empty, new Empty)
 val t2 = new NonEmpty(12, new Empty, new Empty)
 val t3 = new NonEmpty(7, t1, t2)
